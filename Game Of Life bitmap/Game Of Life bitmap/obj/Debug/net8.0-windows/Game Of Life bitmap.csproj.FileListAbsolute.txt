@@ -1,0 +1,48 @@
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.exe
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.deps.json
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.runtimeconfig.json
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.dll
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.pdb
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\WriteableBitmapEx.Wpf.dll
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.csproj.AssemblyReference.cache
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap_MarkupCompile.cache
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap_MarkupCompile.lref
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.g.resources
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.AssemblyInfoInputs.cache
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.AssemblyInfo.cs
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.csproj.CoreCompileInputs.cache
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.sourcelink.json
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of .0C269E67.Up2Date
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.dll
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\refint\Game Of Life bitmap.dll
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.pdb
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.genruntimeconfig.cache
+C:\Users\krunkske\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\ref\Game Of Life bitmap.dll
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.exe
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.deps.json
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.runtimeconfig.json
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.dll
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\Game Of Life bitmap.pdb
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\bin\Debug\net8.0-windows\WriteableBitmapEx.Wpf.dll
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.csproj.AssemblyReference.cache
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap_MarkupCompile.cache
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap_MarkupCompile.lref
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.g.resources
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.AssemblyInfoInputs.cache
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.AssemblyInfo.cs
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.csproj.CoreCompileInputs.cache
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.sourcelink.json
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of .0C269E67.Up2Date
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.dll
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\refint\Game Of Life bitmap.dll
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.pdb
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\Game Of Life bitmap.genruntimeconfig.cache
+C:\Users\cas.vankrunkelsven\Documents\GitHub\STEM_Projects\C#\Game Of Life bitmap\Game Of Life bitmap\obj\Debug\net8.0-windows\ref\Game Of Life bitmap.dll

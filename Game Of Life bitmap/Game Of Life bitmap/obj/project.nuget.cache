@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qA5khX17GOY=",
+  "success": true,
+  "projectFilePath": "/home/krunkske/Documents/GitHub/STEM_Projects/C#/Game Of Life Projects/Game Of Life bitmap/Game Of Life bitmap/Game Of Life bitmap.csproj",
+  "expectedPackageFiles": [
+    "/home/krunkske/.nuget/packages/writeablebitmapex/1.6.8/writeablebitmapex.1.6.8.nupkg.sha512",
+    "/home/krunkske/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

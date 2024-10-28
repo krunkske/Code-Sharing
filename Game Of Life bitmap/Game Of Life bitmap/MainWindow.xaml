@@ -1,0 +1,29 @@
+﻿<Window x:Class="Game_Of_Life_bitmap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Game_Of_Life_bitmap"
+        mc:Ignorable="d"
+        Title="Game Of Life" Height="500" Width="850">
+    <Grid>
+        <Image x:Name="ImageControl" HorizontalAlignment="Left" Height="420" Margin="109,10,0,0" VerticalAlignment="Top" Width="680" Cursor="Pen" MouseDown="ImageControl_MouseDown"/>
+        <Canvas Name="MyCanvas"/>
+
+        <Button x:Name="pause_unpause" Content="Unpause" HorizontalAlignment="Left" Margin="20,70,0,0" VerticalAlignment="Top" Click="pause_unpause_Click"/>
+        <Button x:Name="save_button" Content="Save" HorizontalAlignment="Left" Margin="14,95,0,0" VerticalAlignment="Top" Click="save_button_Click"/>
+        <Button x:Name="load_button" Content="Load" HorizontalAlignment="Left" Margin="48,95,0,0" VerticalAlignment="Top" Click="load_button_Click"/>
+        <Button x:Name="SetGridbtn" Content="Hide grid" HorizontalAlignment="Left" Margin="48,178,0,0" VerticalAlignment="Top" Click="SetGridbtn_Click"/>
+        <Button x:Name="randomize_btn" Content="Randomize" HorizontalAlignment="Left" Margin="12,202,0,0" VerticalAlignment="Top" Click="randomize_btn_Click"/>
+        <TextBox x:Name="width_box" HorizontalAlignment="Left" Margin="48,120,0,0" TextWrapping="Wrap" Text="20" VerticalAlignment="Top" Width="30" LostFocus="width_box_LostFocus" KeyDown="width_box_KeyDown" PreviewTextInput="width_box_PreviewTextInput" MaxLength="3" MaxLines="1"/>
+        <TextBox x:Name="timeBox" HorizontalAlignment="Left" Margin="48,151,0,0" TextWrapping="Wrap" Text="250" VerticalAlignment="Top" Width="30" KeyDown="timeBox_KeyDown" LostFocus="timeBox_LostFocus" PreviewTextInput="timeBox_PreviewTextInput" MaxLength="3" MaxLines="1"/>
+        <Label x:Name="cycleCounter" Content="Cycles" HorizontalAlignment="Left" Margin="24,39,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.638,0.175"/>
+        <Button x:Name="gliderSpawn" Content="Glider" HorizontalAlignment="Left" Margin="13,227,0,0" VerticalAlignment="Top" Click="gliderSpawn_Click" RenderTransformOrigin="-0.731,0.787"/>
+        <Label Content="Game Of Life" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="clearButton" Content="Clear" HorizontalAlignment="Left" Margin="12,178,0,0" VerticalAlignment="Top" Click="clearButton_Click"/>
+        <Label Content="Delay" HorizontalAlignment="Left" Margin="3,147,0,0" VerticalAlignment="Top" Height="26" Width="40"/>
+        <Label Content="size" HorizontalAlignment="Left" Margin="13,116,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+
+</Window>
