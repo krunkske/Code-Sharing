@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NBAxG5aOlA=",
+  "success": true,
+  "projectFilePath": "/home/krunkske/Documents/GitHub/drone-control/drone_control_csharp/drone_control_csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/krunkske/.nuget/packages/tellocommander/1.0.0.8/tellocommander.1.0.0.8.nupkg.sha512",
+    "/home/krunkske/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

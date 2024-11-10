@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "drone_control_csharp/1.0.0": {
+        "dependencies": {
+          "TelloCommander": "1.0.0.8"
+        },
+        "runtime": {
+          "drone_control_csharp.dll": {}
+        }
+      },
+      "TelloCommander/1.0.0.8": {
+        "runtime": {
+          "lib/net6.0/TelloCommander.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "drone_control_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelloCommander/1.0.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-licVhcGeKcw2+3fkhakwN7ozognqh9ja37bkpaUyEdBojjCKzrmvZZ01aYIAAPqCj0pSAii8bMXezlN3o4A+gg==",
+      "path": "tellocommander/1.0.0.8",
+      "hashPath": "tellocommander.1.0.0.8.nupkg.sha512"
+    }
+  }
+}
